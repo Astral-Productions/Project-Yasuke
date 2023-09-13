@@ -53,6 +53,10 @@
 		{
 			"Name": "VirtualHeightfieldMesh",
 			"Enabled": true
+		},
+		{
+			"Name": "CineCameraRigs",
+			"Enabled": true
 		}
 	]
 }
